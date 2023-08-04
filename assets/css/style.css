@@ -183,7 +183,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -295,7 +295,7 @@ h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -545,7 +545,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #151515;
+  color: #ffc451;
 }
 
 /*--------------------------------------------------------------
@@ -1431,7 +1431,7 @@ section {
 }
 
 #footer .footer-top .footer-info h3 {
-  font-size: 28px;
+  font-size: 40px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
@@ -1446,7 +1446,7 @@ section {
 #footer .footer-top .footer-info p {
   font-size: 14px;
   line-height: 24px;
-  margin-bottom: 0;
+  margin-bottom: 10px;
   font-family: "Raleway", sans-serif;
   color: #fff;
 }
