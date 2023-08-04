@@ -141,6 +141,12 @@ h6 {
   text-transform: uppercase;
 }
 
+#header .logo img
+{
+	height: 400px;
+	width: 100px;
+}
+
 #header .logo a {
   color: #fff;
 }
